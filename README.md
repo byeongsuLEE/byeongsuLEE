@@ -19,7 +19,6 @@
   
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
